@@ -5,8 +5,8 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Testing
   - Contract Testing
+  - Testing
 url: >-
   https://raw.githubusercontent.com/api-evangelist/portman/refs/heads/main/apis.yml
 created: '2026-03-25'
@@ -19,8 +19,8 @@ apis:
       Portman is an open source CLI tool that auto-generates Postman collections with contract and variation tests from OpenAPI specifications.
     humanURL: https://github.com/apideck-libraries/portman
     tags:
-      - Testing
       - Contract Testing
+      - Testing
     properties:
       - type: Documentation
         url: https://github.com/apideck-libraries/portman#readme
