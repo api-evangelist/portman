@@ -6,6 +6,18 @@ description: >-
   OpenAPI 3.0 and 3.1, fuzzing, request customization, pre-request scripts,
   and direct upload to Postman or execution via Newman in CI/CD pipelines.
 type: Index
+deliveryModel:
+  model: self-hosted
+  license: Apache-2.0
+  open_source: true
+  commercial: false
+  callable_host: false
+  label: Self-hosted open source · you run it yourself
+  confidence: high
+  source:
+  - license
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: freemium
   onboarding: unknown
@@ -53,6 +65,10 @@ apis:
       - type: NodePackage
         url: https://www.npmjs.com/package/@apideck/portman
 common:
+  - type: IssueTracker
+    url: https://github.com/apideck-libraries/portman/issues
+  - type: Releases
+    url: https://github.com/apideck-libraries/portman/releases
   - type: License
     name: Apache-2.0
     url: https://github.com/apideck-libraries/portman/blob/main/LICENSE
