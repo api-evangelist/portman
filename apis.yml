@@ -65,6 +65,12 @@ apis:
       - type: NodePackage
         url: https://www.npmjs.com/package/@apideck/portman
 common:
+  - type: Plans
+    url: plans/portman-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/portman-rate-limits.yml
+  - type: FinOps
+    url: finops/portman-finops.yml
   - type: IssueTracker
     url: https://github.com/apideck-libraries/portman/issues
   - type: Releases
